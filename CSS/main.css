@@ -1,0 +1,103 @@
+body
+{
+	font-family: sans-serif;
+	font-weight: Bold;
+}
+
+#div_1
+{
+	width: 250px;
+	height: 395px;
+	box-shadow: -3px 5px 5px #737373;
+	position:absolute;
+	top: 10px;
+	left: 20px;
+	background-color: #ffffff;
+}
+
+#div_2
+{
+	width: 250px;
+	height: 395px;
+	box-shadow: -3px 5px 5px #737373;
+	position:absolute;
+	top: 10px;
+	left: 290px;
+	background-color: #ffffff;
+}
+#div_3
+{
+	width: 250px;
+	height: 395px;
+	box-shadow: -3px 5px 5px #737373;
+	position:absolute;
+	top: 10px;
+	left: 560px;
+	background-color: #ffffff;
+}
+
+
+#img1
+{
+	width: 250px;
+	height: 250px;
+	position: relative;	
+}
+
+#btn_b
+{
+	position: relative;
+	width: 250px;
+	height: 40px;
+	top: 25px;
+	border: 0px;
+	font-family: "Segoe UI";
+	font-size: 15pt;
+	font-weight: bold;
+	background-color: #94c93d;
+	background: -webkit-gradient(linear,left top,left bottom,from(#a8ff00),to(#94c93d));
+	box-shadow: 0px 1px 1px #777777;
+	color: #ececec; 
+	letter-spacing: 0px;
+}
+
+#btn_b:active
+{
+	background: -webkit-gradient(linear,left top,left bottom,from(#94c93d),to(#a8ff00));
+}
+
+#btn_a
+{
+	width: 250px;
+	height: 40px;
+	position: relative;
+	top: 30px;
+	background-color: #f68f3c;
+	background: -webkit-gradient(linear,left top,left bottom,from(#f68f3c),to(#ff7200));
+	box-shadow: 0px -1px 1px #777777;
+	border:0px;
+	font-family: "Segoe UI";
+	font-size: 15pt;
+	font-weight: bold;
+	color: #ececec;
+}
+
+#btn_a:active
+{
+	background: -webkit-gradient(linear,left top,left bottom,from(#ff7200),to(#f68f3c));
+}
+
+#p1	
+{
+	position: relative;
+	top: 5px;
+	font-size: 15pt;
+	color: #715405;
+}
+
+#p2
+{
+	position: relative;
+	top: 15px;
+}
+
